@@ -12,6 +12,10 @@ This repository contains all the code and data required to reproduce the results
 - [Contact](#contact)
 - [License](#license)
 
+![cartoondynamics](https://github.com/RaffaeleMarino/Learning_in_WilsonCowan/assets/44016352/7b9ae2ae-fff3-48a4-a72b-368588b14169)
+
+
+
 ## Introduction
 
 This repository contains the implementation of the algorithms and experiments described in the paper "Learning in Wilson-Cowan Model for metapopulation (https://arxiv.org/abs/xxx)". The goal is to provide  a transparent and reproducible set of tools to verify and extend the findings of our work.
