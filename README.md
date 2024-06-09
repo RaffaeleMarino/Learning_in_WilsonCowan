@@ -9,7 +9,6 @@ This repository contains all the code and data required to reproduce the results
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Reproducing Results](#reproducing-results)
 - [Contact](#contact)
 - [License](#license)
 
