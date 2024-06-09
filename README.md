@@ -63,25 +63,11 @@ python main_**.py
 ```
 where * identifies the name of the architecture, while ** identifies the name of the dataset.
 
-## Reproducing Results
-
-To reproduce the results presented in the paper, follow these steps:
-
-1. **Data Preparation**: Download and prepare the datasets as described in the `data/README.md` file.
-2. **Running Experiments**: Execute the experiment scripts located in the `experiments/` directory.
-3. **Analyzing Results**: Generated results will be saved in the `results/` directory. You can use the provided Jupyter notebooks in the `notebooks/` directory for detailed analysis and visualization.
-
-Example command to run an experiment:
-
-```bash
-python experiments/experiment_name.py
-```
-
 ## Contact
 
 For any questions or issues, please open an issue on this repository or contact the authors:
 
-- [Author Name](mailto:author@example.com)
+- [Raffaele Marino](mailto:raffaele.marino@unifi.it)
 
 ## License
 
