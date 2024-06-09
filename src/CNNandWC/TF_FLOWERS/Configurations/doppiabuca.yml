@@ -1,0 +1,11 @@
+Network:
+  size: 784
+
+DynamicalParameters:
+  gamma: 0.25
+  dt: 0.1
+
+Dataset:
+  classes: 5
+  num_train_images : 3303
+  num_test_images : 3303
