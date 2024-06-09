@@ -22,13 +22,11 @@ This repository contains the implementation of the algorithms and experiments de
 The repository is structured as follows:
 
 - `src/`: Source code for the main algorithms and models.
-- `data/`: Sample datasets used in the experiments.
-- `experiments/`: Scripts to reproduce the experiments and generate results.
-- `results/`: Generated results from the experiments.
-- `notebooks/`: Jupyter notebooks for interactive exploration.
-- `docs/`: Additional documentation and resources.
-- `scripts/`: Utility scripts for preprocessing and other tasks.
-
+- `src/WC`: Source code for Wilsong-Cowan model for metapopulation.
+- `src/CNNandWC`: Source code for Wilsong-Cowan model for metapopulation in combination with CNN.
+- `src/BERTandWC`: Source code for Wilsong-Cowan model for metapopulation in combination with BERT.
+  
+In each directory, there is a folder containing the specific dataset being analyzed.
 ## Requirements
 
 To run the code, you will need the following software and libraries:
