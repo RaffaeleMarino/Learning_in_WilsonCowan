@@ -31,11 +31,11 @@ In each directory, there is a folder containing the specific dataset being analy
 
 To run the code, you will need the following software and libraries:
 
-- Python 3.x
+- Python 3.10.14
 - NumPy
 - Matplotlib
 - Scikit-learn
-- TensorFlow
+- TensorFlow 2.13.1
 
 You can install the required libraries using the following command:
 
