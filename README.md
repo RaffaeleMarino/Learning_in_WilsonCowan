@@ -48,7 +48,7 @@ pip install -r requirements.txt
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/xxx
+https://github.com/RaffaeleMarino/Learning_in_WilsonCowan.git
 ```
 
 ## Usage
@@ -56,8 +56,12 @@ git clone https://github.com/xxx
 To run the main experiments, use the following command:
 
 ```bash
-python src/xxx
+cd src/
+cd *
+cd **
+python main*.py
 ```
+where * identifies the name of the architecture, while ** identifies the name of the dataset.
 
 ## Reproducing Results
 
