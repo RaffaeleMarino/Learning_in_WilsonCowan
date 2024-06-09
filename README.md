@@ -33,16 +33,21 @@ In each directory, there is a folder containing the specific dataset being analy
 
 To run the code, you will need the following software and libraries:
 
-- Python 3.10.14
+- Python 3.12.3 and 3.10.14 (for BERT) 
 - NumPy
 - Matplotlib
 - Scikit-learn
-- TensorFlow 2.13.1
+- TensorFlow 2.16.1 and 2.13.1 (for BERT)
 
 You can install the required libraries using the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+For experiments with BERT :
+
+```bash
+pip install -r requirementsBERT.txt
 ```
 
 ## Installation
