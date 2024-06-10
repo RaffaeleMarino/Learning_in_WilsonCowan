@@ -90,12 +90,6 @@ where * identifies the name of the architecture, while ** identifies the name of
 - **Epochs**: The number of epochs the model was trained for.
 
 
-## Notes on Hyperparameters
-- **Learning Rate**: The learning rate used for the optimizer.
-- **Batch Size**: The batch size used during training.
-- **Epochs**: The number of epochs the model was trained for.
-
-
 ## Contact
 
 For any questions or issues, please open an issue on this repository or contact the authors:
