@@ -90,6 +90,11 @@ where * identifies the name of the architecture, while ** identifies the name of
 - **Batch Size**: The batch size used during training.
 - **Epochs**: The number of epochs the model was trained for.
 - **SOTA**: State-Of-The-Art
+- [1]
+- [2]
+- [3]
+- [4]
+- [5] B. Csan ́ady, L. Muzsai, P. Vedres, Z. N ́adasdy, and A. Luk ́acs, Llambert: Large-scale low-cost data annotation in nlp, arXiv preprint arXiv:2403.15938 (2024)
 
 
 ## Contact
