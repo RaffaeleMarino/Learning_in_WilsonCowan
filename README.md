@@ -73,7 +73,6 @@ where * identifies the name of the architecture, while ** identifies the name of
 
 # Experiment Results
 
-# Experiment Results
 
 | Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy | SOTA     |
 |----------------|-----------------|---------------|------------|--------|----------|----------|
