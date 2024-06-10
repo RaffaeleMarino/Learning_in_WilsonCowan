@@ -74,15 +74,15 @@ where * identifies the name of the architecture, while ** identifies the name of
 # Experiment Results
 
 
-| Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy | SOTA     |
-|----------------|-----------------|---------------|------------|--------|----------|----------|
-| MNIST          | WC              | 0.1           | 200        | 550    | 98%      |          |
-| FASHION MNIST  | WC              | 0.1           | 200        | 350    | 88%      |          |
-| MNIST          | CNN and WC      | 0.0001        | 10 & 200   | 35 & 70| 98%      |          |
-| FASHION MNIST  | CNN and WC      | 0.0001        | 10 & 200   | 35 & 70| 91%      |          |
-| CIFAR10        | CNN and WC      | 0.001         | 128        | 50     | 85%      |          |
-| TF-FLOWERS     | CNN and WC      | 0.0001        | 32         | 30     | 78%      |          |
-| IMDB           | BERT and WC     | 0.01          | 16         | 15     | 87%      |          |
+| Dataset        | Model           | Learning Rate | Batch Size | Epochs  | Accuracy | SOTA     |
+|----------------|-----------------|---------------|------------|---------|----------|----------|
+| MNIST          | WC              | 0.1           | 200        | 550     | 98%      |          |
+| FASHION MNIST  | WC              | 0.1           | 200        | 350     | 88%      |          |
+| MNIST          | CNN & WC        | 0.0001        | 10 & 200   | 35 & 70 | 99.31%   |          |
+| FASHION MNIST  | CNN & WC        | 0.0001        | 10 & 200   | 35 & 70 | 91.35%   |          |
+| CIFAR10        | CNN & WC        | 0.0001        | 10 & 200   | 70 & 70 | 85.39%   |          |
+| TF-FLOWERS     | CNN & WC        | 0.001         | 10 & 32    | 70 & 100| 83.54%   |          |
+| IMDB           | BERT & WC       | 0.01          | 16         | 15      | 87.46%   |          |
 
 ## Notes on Hyperparameters
 - **Model**: The model architecture used for the experiment.
