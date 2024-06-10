@@ -73,26 +73,22 @@ where * identifies the name of the architecture, while ** identifies the name of
 
 # Experiment Results
 
-| Dataset        | Model        | Hyperparameters                                         | Results          |
-|----------------|------------------------------------------------------------------------|------------------|
-| MNIST          |              | Learning Rate: 0.01<br>Batch Size: 32<br>Epochs: 10     | Accuracy: 98%    |
-| FASHION MNIST  |              | Learning Rate: 0.001<br>Batch Size: 64<br>Epochs: 20    | Accuracy: 91%    |
-| CIFAR10        |              | Learning Rate: 0.001<br>Batch Size: 128<br>Epochs: 50   | Accuracy: 85%    |
-| TF-FLOWERS     |              | Learning Rate: 0.0001<br>Batch Size: 32<br>Epochs: 30   | Accuracy: 78%    |
-| IMDB           |              | Learning Rate: 0.01<br>Batch Size: 16<br>Epochs: 15     | Accuracy: 87%    |
+# Experiment Results
 
-| Dataset        | Learning Rate | Batch Size | Epochs | Accuracy |
-|----------------|---------------|------------|--------|----------|
-| MNIST          | 0.01          | 32         | 10     | 98%      |
-| FASHION MNIST  | 0.001         | 64         | 20     | 91%      |
-| CIFAR10        | 0.001         | 128        | 50     | 85%      |
-| TF-FLOWERS     | 0.0001        | 32         | 30     | 78%      |
-| IMDB           | 0.01          | 16         | 15     | 87%      |
+| Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy |
+|----------------|-----------------|---------------|------------|--------|----------|
+| MNIST          |                 | 0.01          | 32         | 10     | 98%      |
+| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |
+| CIFAR10        |                 | 0.001         | 128        | 50     | 85%      |
+| TF-FLOWERS     |                 | 0.0001        | 32         | 30     | 78%      |
+| IMDB           |                 | 0.01          | 16         | 15     | 87%      |
 
 ## Notes on Hyperparameters
+- **Model**: The model architecture used for the experiment.
 - **Learning Rate**: The learning rate used for the optimizer.
 - **Batch Size**: The batch size used during training.
 - **Epochs**: The number of epochs the model was trained for.
+
 
 ## Notes on Hyperparameters
 - **Learning Rate**: The learning rate used for the optimizer.
