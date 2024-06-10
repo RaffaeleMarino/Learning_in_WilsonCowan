@@ -18,7 +18,7 @@ This repository contains all the code and data required to reproduce the results
 
 ## Introduction
 
-This repository contains the implementation of the algorithms and experiments described in the paper "Learning in Wilson-Cowan Model for metapopulation (https://arxiv.org/abs/xxx)". The goal is to provide  a transparent and reproducible set of tools to verify and extend the findings of our work.
+This repository contains the implementation of the algorithms and experiments described in the paper "Learning in Wilson-Cowan Model for metapopulation". The goal is to provide  a transparent and reproducible set of tools to verify and extend the findings of our work.
 
 ## Structure of the Repository
 
