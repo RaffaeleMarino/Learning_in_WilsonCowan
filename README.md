@@ -75,13 +75,13 @@ where * identifies the name of the architecture, while ** identifies the name of
 
 # Experiment Results
 
-| Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy |
-|----------------|-----------------|---------------|------------|--------|----------|
-| MNIST          |                 | 0.01          | 32         | 10     | 98%      |
-| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |
-| CIFAR10        |                 | 0.001         | 128        | 50     | 85%      |
-| TF-FLOWERS     |                 | 0.0001        | 32         | 30     | 78%      |
-| IMDB           |                 | 0.01          | 16         | 15     | 87%      |
+| Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy | SOTA     |
+|----------------|-----------------|---------------|------------|--------|----------|----------|
+| MNIST          |                 | 0.01          | 32         | 10     | 98%      |          |
+| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |          |
+| CIFAR10        |                 | 0.001         | 128        | 50     | 85%      |          |
+| TF-FLOWERS     |                 | 0.0001        | 32         | 30     | 78%      |          |
+| IMDB           |                 | 0.01          | 16         | 15     | 87%      |          |
 
 ## Notes on Hyperparameters
 - **Model**: The model architecture used for the experiment.
