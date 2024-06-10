@@ -77,7 +77,7 @@ where * identifies the name of the architecture, while ** identifies the name of
 | Dataset        | Model           | Learning Rate | Batch Size | Epochs  | Accuracy | SOTA     |
 |----------------|-----------------|---------------|------------|---------|----------|----------|
 | MNIST          | WC              | 0.1           | 200        | 550     | 98%      | 99.87%[1]|
-| FASHION MNIST  | WC              | 0.1           | 200        | 350     | 88%      | 96.91%[2]|
+| FASHION MNIST  | WC              | 0.1           | 200        | 350     | 88.39%   | 96.91%[2]|
 | MNIST          | CNN & WC        | 0.0001        | 10 & 200   | 35 & 70 | 99.31%   | 99.87%[1]|
 | FASHION MNIST  | CNN & WC        | 0.0001        | 10 & 200   | 35 & 70 | 91.35%   | 96.91%[2]|
 | CIFAR10        | CNN & WC        | 0.0001        | 10 & 200   | 70 & 70 | 85.39%   | 99.50%[3]|
