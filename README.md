@@ -76,13 +76,13 @@ where * identifies the name of the architecture, while ** identifies the name of
 
 | Dataset        | Model           | Learning Rate | Batch Size | Epochs | Accuracy | SOTA     |
 |----------------|-----------------|---------------|------------|--------|----------|----------|
-| MNIST          |                 | 0.01          | 32         | 10     | 98%      |          |
-| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |          |
-| MNIST          |                 | 0.01          | 32         | 10     | 98%      |          |
-| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |          |
-| CIFAR10        |                 | 0.001         | 128        | 50     | 85%      |          |
-| TF-FLOWERS     |                 | 0.0001        | 32         | 30     | 78%      |          |
-| IMDB           |                 | 0.01          | 16         | 15     | 87%      |          |
+| MNIST          | WC              | 0.01          | 32         | 10     | 98%      |          |
+| FASHION MNIST  | WC              | 0.001         | 64         | 20     | 91%      |          |
+| MNIST          | CNN and WC      | 0.01          | 32         | 10     | 98%      |          |
+| FASHION MNIST  | CNN and WC      | 0.001         | 64         | 20     | 91%      |          |
+| CIFAR10        | CNN and WC      | 0.001         | 128        | 50     | 85%      |          |
+| TF-FLOWERS     | CNN and WC      | 0.0001        | 32         | 30     | 78%      |          |
+| IMDB           | BERT and WC     | 0.01          | 16         | 15     | 87%      |          |
 
 ## Notes on Hyperparameters
 - **Model**: The model architecture used for the experiment.
