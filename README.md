@@ -90,6 +90,7 @@ where * identifies the name of the architecture, while ** identifies the name of
 - **Batch Size**: The batch size used during training.
 - **Epochs**: The number of epochs the model was trained for.
 - **SOTA**: State-Of-The-Art
+- **$\Delta t$
 - [1] A. Byerly, T. Kalganova, and I. Dear, No routing needed between capsules, Neurocomputing 463, 545 (2021)
 - [2] M. S. Tanveer, M. U. K. Khan, and C.-M. Kyung, Fine-tuning darts for image classification, in 2020 25th International Conference on Pattern Recognition (ICPR)(IEEE, 2021) 
 - [3] A. Dosovitskiy, L. Beyer, A. Kolesnikov, D. Weissenborn, X. Zhai, T. Unterthiner, M. Dehghani, M. Minderer, G. Heigold, S. Gelly, J. Uszkoreit, and N. Houlsby, An image is worth 16x16 words: Transformers for image recognition at scale, in International Conference on Learning Representations (2021)
