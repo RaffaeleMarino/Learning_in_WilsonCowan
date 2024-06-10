@@ -79,6 +79,8 @@ where * identifies the name of the architecture, while ** identifies the name of
 |----------------|-----------------|---------------|------------|--------|----------|----------|
 | MNIST          |                 | 0.01          | 32         | 10     | 98%      |          |
 | FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |          |
+| MNIST          |                 | 0.01          | 32         | 10     | 98%      |          |
+| FASHION MNIST  |                 | 0.001         | 64         | 20     | 91%      |          |
 | CIFAR10        |                 | 0.001         | 128        | 50     | 85%      |          |
 | TF-FLOWERS     |                 | 0.0001        | 32         | 30     | 78%      |          |
 | IMDB           |                 | 0.01          | 16         | 15     | 87%      |          |
