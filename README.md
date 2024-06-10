@@ -1,6 +1,6 @@
 # Repository for Learning in Wilson-Cowan Model for metapopulation
 
-This repository contains all the code and data required to reproduce the results presented in the paper titled "Learning in Wilson-Cowan Model for metapopulation (https://arxiv.org/abs/xxx)" published on arXiv. Below, you will find detailed instructions on how to set up, run, and understand the provided code.
+This repository contains all the code and data required to reproduce the results presented in the paper titled "Learning in Wilson-Cowan Model for metapopulation" published on arXiv (https://arxiv.org/xxx). Below, you will find detailed instructions on how to set up, run, and understand the provided code.
 
 ![cartoondynamics](https://github.com/RaffaeleMarino/Learning_in_WilsonCowan/assets/44016352/7b9ae2ae-fff3-48a4-a72b-368588b14169)
 
