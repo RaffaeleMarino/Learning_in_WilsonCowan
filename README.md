@@ -11,6 +11,7 @@ This repository contains all the code and data required to reproduce the results
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Experiment Results](#experiment-results)
 - [Contact](#contact)
 - [License](#license)
 
@@ -69,6 +70,22 @@ cd **
 python main_**.py
 ```
 where * identifies the name of the architecture, while ** identifies the name of the dataset.
+
+# Experiment Results
+
+| Dataset        | Model        | Hyperparameters                                         | Results          |
+|----------------|------------------------------------------------------------------------|------------------|
+| MNIST          |              | Learning Rate: 0.01<br>Batch Size: 32<br>Epochs: 10     | Accuracy: 98%    |
+| FASHION MNIST  |              | Learning Rate: 0.001<br>Batch Size: 64<br>Epochs: 20    | Accuracy: 91%    |
+| CIFAR10        |              | Learning Rate: 0.001<br>Batch Size: 128<br>Epochs: 50   | Accuracy: 85%    |
+| TF-FLOWERS     |              | Learning Rate: 0.0001<br>Batch Size: 32<br>Epochs: 30   | Accuracy: 78%    |
+| IMDB           |              | Learning Rate: 0.01<br>Batch Size: 16<br>Epochs: 15     | Accuracy: 87%    |
+
+## Notes on Hyperparameters
+- **Learning Rate**: The learning rate used for the optimizer.
+- **Batch Size**: The batch size used during training.
+- **Epochs**: The number of epochs the model was trained for.
+
 
 ## Contact
 
