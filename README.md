@@ -67,7 +67,7 @@ To run the main experiments, use the following command:
 cd src/
 cd *
 cd **
-python main_**.py
+python3 main_**.py
 ```
 where * identifies the name of the architecture, while ** identifies the name of the dataset.
 
