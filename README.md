@@ -25,9 +25,9 @@ This repository contains the implementation of the algorithms and experiments de
 The repository is structured as follows:
 
 - `src/`: Source code for the main algorithms and models.
-- `src/WC`: Source code for Wilsong-Cowan model for metapopulation.
-- `src/CNNandWC`: Source code for Wilsong-Cowan model for metapopulation in combination with CNN.
-- `src/BERTandWC`: Source code for Wilsong-Cowan model for metapopulation in combination with BERT.
+- `src/WC`: Source code for Wilson-Cowan model for metapopulation.
+- `src/CNNandWC`: Source code for Wilson-Cowan model for metapopulation in combination with CNN.
+- `src/BERTandWC`: Source code for Wilson-Cowan model for metapopulation in combination with BERT.
   
 In each directory, there is a folder containing the specific dataset being analyzed.
 ## Requirements
