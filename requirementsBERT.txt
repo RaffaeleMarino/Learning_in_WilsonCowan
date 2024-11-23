@@ -139,7 +139,7 @@ tf-slim==1.1.0
 threadpoolctl==3.5.0
 tifffile==2024.5.22
 toml==0.10.2
-tornado==6.4
+tornado>=6.4.2
 tqdm==4.66.4
 traitlets==5.14.3
 typing_extensions @ file:///croot/typing_extensions_1681939499988/work
