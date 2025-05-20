@@ -111,8 +111,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Cite this paper: 
 
 Bibtex Format:
+## BibTeX
 
-'''
+```bibtex
 @article{marino2025learning,
   title={Learning in Wilson-Cowan model for metapopulation},
   author={Marino, Raffaele and Buffoni, Lorenzo and Chicchi, Lorenzo and Patti, Francesca Di and Febbe, Diego and Giambagli, Lorenzo and Fanelli, Duccio},
@@ -121,6 +122,6 @@ Bibtex Format:
   number={4},
   pages={701--741},
   year={2025},
-  publisher={MIT Press 255 Main Street, 9th Floor, Cambridge, Massachusetts 02142, USA~…}
+  publisher={MIT Press}
 }
-'''
+
