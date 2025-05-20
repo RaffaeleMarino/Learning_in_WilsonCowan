@@ -1,6 +1,6 @@
 # Repository for Learning in Wilson-Cowan Model for metapopulation
 
-This repository contains all the code and data required to reproduce the results presented in the paper titled "Learning in Wilson-Cowan Model for metapopulation" published on arXiv ([https://arxiv.org/2406.16453](http://arxiv.org/abs/2406.16453)). Below, you will find detailed instructions on how to set up, run, and understand the provided code.
+This repository contains all the code and data required to reproduce the results presented in the paper titled "Learning in Wilson-Cowan Model for metapopulation" published on Neural Computation ([Neural Computation (2025) 37 (4): 701–741.](https://doi.org/10.1162/neco_a_01744))  (Arxiv link: [https://arxiv.org/2406.16453](http://arxiv.org/abs/2406.16453)). Below, you will find detailed instructions on how to set up, run, and understand the provided code.
 
 ![‎CartoonDynamics](https://github.com/RaffaeleMarino/Learning_in_WilsonCowan/assets/44016352/0f4bb98b-4253-47d5-a0d2-51fd3c9c862d)
 
@@ -107,3 +107,20 @@ For any questions or issues, please open an issue on this repository or contact 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Cite this paper: 
+
+Bibtex Format:
+
+'''
+@article{marino2025learning,
+  title={Learning in Wilson-Cowan model for metapopulation},
+  author={Marino, Raffaele and Buffoni, Lorenzo and Chicchi, Lorenzo and Patti, Francesca Di and Febbe, Diego and Giambagli, Lorenzo and Fanelli, Duccio},
+  journal={Neural Computation},
+  volume={37},
+  number={4},
+  pages={701--741},
+  year={2025},
+  publisher={MIT Press 255 Main Street, 9th Floor, Cambridge, Massachusetts 02142, USA~…}
+}
+'''
