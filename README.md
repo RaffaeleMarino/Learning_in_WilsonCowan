@@ -108,9 +108,7 @@ For any questions or issues, please open an issue on this repository or contact 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Cite this paper: 
 
-Bibtex Format:
 ## BibTeX
 
 ```bibtex
